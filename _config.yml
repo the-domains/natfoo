@@ -1,19 +1,4 @@
-name: natfoo
-favicon: null
-layout_spectrum: 0.49648
-typography_spectrum: 0.5132630195003003
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#B8B42D'
@@ -23,6 +8,11 @@ color:
     - '#DD403A'
   brandStrength: 0.034788165939971805
   lightness: 0.5826860624365509
-  saturation: 0.17732723336666822
   rhythmicContrast: 0.5
+  saturation: 0.17732723336666822
+cta: {}
+layout_spectrum: 0.728603
+name: natfoo
+opengraph: {}
 purpose: []
+typography_spectrum: 0.5132630195003003
