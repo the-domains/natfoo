@@ -4,8 +4,15 @@
         <description><![CDATA[natfoo]]></description>
         <link>https://thegrid.ai/natfoo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 17:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 17:55:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/natfoo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lessons in simplicity</p>]]></description>
+            <link>https://thegrid.ai/natfoo/183dcdf9-f8cd-44e0-ad04-a1f34f0930fe/index.html</link>
+            <guid isPermaLink="false">183dcdf9-f8cd-44e0-ad04-a1f34f0930fe</guid>
+            <pubDate>Fri, 19 Feb 2016 17:54:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What does adding another post do....]]></title>
             <description><![CDATA[<article><h1>What does adding another post do....</h1><p>So far it is a little bit confusing, not quite so intuitive about how to make a site... but I will persevere and see...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6375da05dbeff83d27a3841e143b55dce97ef64f.jpg"></article>]]></description>
